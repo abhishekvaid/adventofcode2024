@@ -1,6 +1,5 @@
 import re 
 
-
 def part1():
     regex = r"mul\((\d+),(\d+)\)"
     with open("input.txt") as fin:
